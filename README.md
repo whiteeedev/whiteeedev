@@ -1,4 +1,4 @@
-👋 Hey, I'm White
+# 👋 Hey, I'm White
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Projects;Always+Learning;Looking+for+Opportunities" alt="Typing SVG" /> </p>
 
