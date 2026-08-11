@@ -20,7 +20,7 @@ I'm a **Python Developer** passionate about building projects, exploring new tec
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,discord,sqlite,postgresql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,discord,sqlite,postgresql,html,css,js" />
 </p>
 
 <p align="center">
