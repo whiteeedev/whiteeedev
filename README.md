@@ -12,7 +12,7 @@ I enjoy learning by building real projects and experimenting with different tech
 
 * 🐍 Python Backend development
 * ⚡ TypeScript & JavaScript
-* 🌐 Front and Backend development
+* 🌐 Front & Backend development
 * 🔌 APIs and integrations
 * 🗄️ Databases and backend systems
 * 🛠️ Always building and learning
