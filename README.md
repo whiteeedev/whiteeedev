@@ -2,7 +2,7 @@
 
 ### Developer • Python • TypeScript • Backend
 
-I'm a developer interested in building software, web applications, backend systems and APIs.
+I'm a developer interested in building web applications, backend systems and APIs.
 
 I enjoy learning by building real projects and experimenting with different technologies.
 
@@ -10,9 +10,9 @@ I enjoy learning by building real projects and experimenting with different tech
 
 ## About Me
 
-* 🐍 Python development
+* 🐍 Python Backend development
 * ⚡ TypeScript & JavaScript
-* 🌐 Web and backend development
+* 🌐 Front and Backend development
 * 🔌 APIs and integrations
 * 🗄️ Databases and backend systems
 * 🛠️ Always building and learning
@@ -30,19 +30,19 @@ I enjoy learning by building real projects and experimenting with different tech
 ### Frameworks & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
@@ -54,9 +54,6 @@ APIs, databases, authentication and server-side applications.
 
 **Web Development**
 Modern applications using TypeScript, React and Next.js.
-
-**Software Development**
-Building projects, experimenting with new technologies and improving my programming skills.
 
 ---
 
@@ -74,7 +71,6 @@ A selection of things I've worked on:
 * 🌐 Full-stack web applications
 * 🔌 APIs and backend systems
 * 🗄️ Database-driven applications
-* 🧪 Experimental and learning projects
 
 ---
 
