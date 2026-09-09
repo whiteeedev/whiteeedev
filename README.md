@@ -1,4 +1,4 @@
-# Howdy, I'm White 👋
+# Howdy, I'm Leandro Filipe, better known as White 👋
 
 ### Developer • Python • TypeScript • Backend
 
