@@ -60,6 +60,7 @@ Modern applications using TypeScript, React and Next.js.
 ## Certifications
 
 * 📜 CS50P — Introduction to Programming with Python — Harvard University
+* 🤖 Microsoft Learn — Introduction to Generative AI and Agents
 
 ---
 
