@@ -1,31 +1,93 @@
-# 👋 Hey, I'm White
+# Hey, I'm White 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Projects;Always+Learning;Looking+for+Opportunities" alt="Typing SVG" />
+### Developer • Python • Web • Backend
+
+I'm a developer who enjoys building things, learning new technologies, and turning ideas into working projects.
+
+I mainly work with **Python** and **web technologies**, while constantly exploring new tools and concepts in software development.
+
+---
+
+## About Me
+
+* 🐍 Mainly focused on **Python development**
+* 🌐 Interested in **Web & Backend Development**
+* 🗄️ Working with **databases, APIs and automation**
+* 📚 Currently learning and improving my programming skills
+* 🛠️ I like building projects to learn by doing
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase,sqlite" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## What I'm Interested In
 
-I'm a **Python Developer** passionate about building projects, exploring new technologies, and turning ideas into real-world solutions.
-
-* 🐍 Focused on **Python development**
-* 🚀 Always building and experimenting
-* 📚 Constantly learning new technologies
-* 🤝 Open to **new opportunities and collaborations**
+```text
+Backend Development
+Web Applications
+APIs & Integrations
+Databases
+Automation
+Software Engineering
+```
 
 ---
 
-## 🛠️ Tech Stack
+## Certifications
+
+> Certificates and completed courses will be listed here.
+
+* 📜 CS50P — Introduction to Programming with Python
+* 📜 More coming soon...
+
+---
+
+## Projects
+
+Some of the things I've been building:
+
+* 🌐 Web applications
+* 🤖 Discord bots & automation
+* 🔌 APIs and backend systems
+* 🗄️ Database-driven applications
+* 🧪 Experimental projects and ideas
+
+---
+
+## GitHub
+
+I use GitHub to document what I'm building, experiment with new technologies, and keep track of my progress as I learn.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,discord,sqlite,postgresql,html,css,js" />
+  <img src="https://github-readme-stats.vercel.app/api?username=White&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with curiosity, code, and a lot of debugging.</sub>
 </p>
