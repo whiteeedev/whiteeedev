@@ -1,4 +1,4 @@
-# Hey, I'm White 👋
+# Howdy, I'm White 👋
 
 ### Developer • Python • TypeScript • Backend
 
