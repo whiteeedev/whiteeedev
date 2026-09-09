@@ -1,20 +1,21 @@
 # Hey, I'm White 👋
 
-### Developer • Python • Web • Backend
+### Developer • Python • TypeScript • Backend
 
-I'm a developer who enjoys building things, learning new technologies, and turning ideas into working projects.
+I'm a developer interested in building software, web applications, backend systems and APIs.
 
-I mainly work with **Python** and **web technologies**, while constantly exploring new tools and concepts in software development.
+I enjoy learning by building real projects and experimenting with different technologies.
 
 ---
 
 ## About Me
 
-* 🐍 Mainly focused on **Python development**
-* 🌐 Interested in **Web & Backend Development**
-* 🗄️ Working with **databases, APIs and automation**
-* 📚 Currently learning and improving my programming skills
-* 🛠️ I like building projects to learn by doing
+* 🐍 Python development
+* ⚡ TypeScript & JavaScript
+* 🌐 Web and backend development
+* 🔌 APIs and integrations
+* 🗄️ Databases and backend systems
+* 🛠️ Always building and learning
 
 ---
 
@@ -26,68 +27,57 @@ I mainly work with **Python** and **web technologies**, while constantly explori
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 </p>
 
-### Frameworks & Tools
+### Frameworks & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,vite" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase,supabase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## What I'm Interested In
+## Focus
 
-```text
-Backend Development
-Web Applications
-APIs & Integrations
-Databases
-Automation
-Software Engineering
-```
+**Backend Development**
+APIs, databases, authentication and server-side applications.
+
+**Web Development**
+Modern applications using TypeScript, React and Next.js.
+
+**Software Development**
+Building projects, experimenting with new technologies and improving my programming skills.
 
 ---
 
 ## Certifications
 
-> Certificates and completed courses will be listed here.
-
 * 📜 CS50P — Introduction to Programming with Python
-* 📜 More coming soon...
 
 ---
 
 ## Projects
 
-Some of the things I've been building:
+A selection of things I've worked on:
 
-* 🌐 Web applications
-* 🤖 Discord bots & automation
+* 🤖 Discord bots and automation
+* 🌐 Full-stack web applications
 * 🔌 APIs and backend systems
 * 🗄️ Database-driven applications
-* 🧪 Experimental projects and ideas
-
----
-
-## GitHub
-
-I use GitHub to document what I'm building, experiment with new technologies, and keep track of my progress as I learn.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=White&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=White&hide_border=true&theme=transparent" />
-</p>
+* 🧪 Experimental and learning projects
 
 ---
 
 <p align="center">
-  <sub>Built with curiosity, code, and a lot of debugging.</sub>
+  <sub>Building. Learning. Improving.</sub>
 </p>
