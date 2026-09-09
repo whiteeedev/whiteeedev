@@ -59,7 +59,7 @@ Modern applications using TypeScript, React and Next.js.
 
 ## Certifications
 
-* 📜 CS50P — Introduction to Programming with Python
+* 📜 CS50P — Introduction to Programming with Python — Harvard University
 
 ---
 
